@@ -12,7 +12,7 @@
   
   [![Portfolio](https://img.shields.io/badge/💼_Portfolio-ashishport.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://ashishport.vercel.app)
   [![Email](https://img.shields.io/badge/📧_Contact-ashishjadhav9900@gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishjadhav9900@gmail.com)
-  [![Give Star](https://img.shields.io/badge/⭐_Give_Star-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/your-repo-name)
+  [![Give Star](https://img.shields.io/badge/⭐_Give_Star-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://https://github.com/Ashish1022/kafka-clickhouse-pipeline)
   
 </div>
 
@@ -46,13 +46,13 @@ Perfect for developers who want to experiment with real-time data processing and
 
 <div align="center">
 
-|                                 🏆 **For Developers**                                 |                                  🛠️ **For Learning**                                   |
-| :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| ![Docker](https://img.shields.io/badge/🐳-Docker_Ready-blue?style=flat-square) |   ![Kafka](https://img.shields.io/badge/📡-Kafka_Basics-blue?style=flat-square)   |
-|  ![Setup](https://img.shields.io/badge/⚡-Quick_Setup-green?style=flat-square)  | ![ClickHouse](https://img.shields.io/badge/🏪-ClickHouse_Integration-green?style=flat-square) |
-| ![Monorepo](https://img.shields.io/badge/📦-Monorepo_Structure-purple?style=flat-square) |        ![Realtime](https://img.shields.io/badge/🔄-Real_time_Data-purple?style=flat-square)         |
-|   ![Express](https://img.shields.io/badge/🚀-Express_Backend-orange?style=flat-square)   |        ![Analytics](https://img.shields.io/badge/📊-Data_Analytics-orange?style=flat-square)        |
-|       ![TypeScript](https://img.shields.io/badge/🔒-Type_Safe-red?style=flat-square)        | ![Production](https://img.shields.io/badge/🌟-Production_Ready-red?style=flat-square) |
+|                                  🏆 **For Developers**                                   |                                      🛠️ **For Learning**                                      |
+| :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|      ![Docker](https://img.shields.io/badge/🐳-Docker_Ready-blue?style=flat-square)      |         ![Kafka](https://img.shields.io/badge/📡-Kafka_Basics-blue?style=flat-square)         |
+|      ![Setup](https://img.shields.io/badge/⚡-Quick_Setup-green?style=flat-square)       | ![ClickHouse](https://img.shields.io/badge/🏪-ClickHouse_Integration-green?style=flat-square) |
+| ![Monorepo](https://img.shields.io/badge/📦-Monorepo_Structure-purple?style=flat-square) |     ![Realtime](https://img.shields.io/badge/🔄-Real_time_Data-purple?style=flat-square)      |
+|   ![Express](https://img.shields.io/badge/🚀-Express_Backend-orange?style=flat-square)   |     ![Analytics](https://img.shields.io/badge/📊-Data_Analytics-orange?style=flat-square)     |
+|      ![TypeScript](https://img.shields.io/badge/🔒-Type_Safe-red?style=flat-square)      |     ![Production](https://img.shields.io/badge/🌟-Production_Ready-red?style=flat-square)     |
 
 </div>
 
@@ -102,7 +102,7 @@ CREATE TABLE log_events (
     timestamp DateTime MATERIALIZED now(),
     message String,
     metadata Nullable(String)
-) ENGINE=MergeTree 
+) ENGINE=MergeTree
 PARTITION BY toYYYYMM(timestamp)
 ORDER BY (timestamp);
 ```
@@ -199,7 +199,7 @@ pnpm dev
 <img src="https://img.shields.io/badge/🎬-Kafka_Demo_Video-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
-*Coming Soon: Video demonstration of Kafka broker setup and consumer connections*
+_Coming Soon: Video demonstration of Kafka broker setup and consumer connections_
 
 ### 🏪 **ClickHouse Data Visualization**
 
@@ -208,7 +208,7 @@ pnpm dev
 <img src="https://img.shields.io/badge/🎬-ClickHouse_Demo_Video-4ECDC4?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
-*Coming Soon: Video showing real-time data in ClickHouse tables*
+_Coming Soon: Video showing real-time data in ClickHouse tables_
 
 </div>
 
@@ -330,8 +330,8 @@ pnpm dev
 We ❤️ contributions! Help us make this setup even better.
 
 [![Contributors](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
-[![Issues](https://img.shields.io/badge/Issues-Open-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo-name/issues)
-[![Pull Requests](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo-name/pulls)
+[![Issues](https://img.shields.io/badge/Issues-Open-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish1022/kafka-clickhouse-pipeline/issues)
+[![Pull Requests](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish1022/kafka-clickhouse-pipeline/pulls)
 
 </div>
 
@@ -381,7 +381,7 @@ We ❤️ contributions! Help us make this setup even better.
 ### ⭐ **Found This Helpful?**
 
 <p>
-<a href="https://github.com/yourusername/your-repo-name">
+<a href="https://github.com/Ashish1022/kafka-clickhouse-pipeline">
 <img src="https://img.shields.io/badge/⭐_GIVE_IT_A_STAR-FFD700?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
@@ -430,7 +430,7 @@ We ❤️ contributions! Help us make this setup even better.
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Ashish1022/kafka-clickhouse-pipeline">
 <img src="https://img.shields.io/badge/💻_GitHub-Follow_Me-333?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
