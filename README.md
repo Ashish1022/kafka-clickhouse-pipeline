@@ -194,16 +194,20 @@ pnpm dev
 
 ### 📡 **Kafka Broker & Consumer Connections**
 
-<!-- Add your Kafka demo video here -->
+
+https://github.com/user-attachments/assets/53d53417-6b7a-42b2-83fc-aa406f097141
+
+
 <p>
 <img src="https://img.shields.io/badge/🎬-Kafka_Demo_Video-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
-_Coming Soon: Video demonstration of Kafka broker setup and consumer connections_
-
 ### 🏪 **ClickHouse Data Visualization**
 
-<!-- Add your ClickHouse demo video here -->
+
+https://github.com/user-attachments/assets/6c9fa5ee-347b-4edf-b986-20fe0d6aedc1
+
+
 <p>
 <img src="https://img.shields.io/badge/🎬-ClickHouse_Demo_Video-4ECDC4?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
