@@ -125,12 +125,12 @@ This monorepo consists of **3 main applications**:
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/🎨-Consumer_Frontend-4ECDC4?style=for-the-badge" />
 <br><strong>consumer-frontend</strong>
-<br><em>React app for data consumption</em>
+<br><em>Next app for data consumption</em>
 </td>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/📤-Producer_Frontend-45B7D1?style=for-the-badge" />
 <br><strong>producer-frontend</strong>
-<br><em>React app for data production</em>
+<br><em>Next app for data production</em>
 </td>
 </tr>
 </table>
@@ -230,7 +230,7 @@ _Coming Soon: Video showing real-time data in ClickHouse tables_
 
 <p>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
