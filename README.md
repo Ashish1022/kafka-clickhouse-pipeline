@@ -12,7 +12,7 @@
   
   [![Portfolio](https://img.shields.io/badge/💼_Portfolio-ashishport.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://ashishport.vercel.app)
   [![Email](https://img.shields.io/badge/📧_Contact-ashishjadhav9900@gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishjadhav9900@gmail.com)
-  [![Give Star](https://img.shields.io/badge/⭐_Give_Star-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://https://github.com/Ashish1022/kafka-clickhouse-pipeline)
+  [![Give Star](https://img.shields.io/badge/⭐_Give_Star-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ashish1022/kafka-clickhouse-pipeline)
   
 </div>
 
@@ -167,7 +167,7 @@ The heart of the setup! This Express.js application provides:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Ashish1022/kafka-clickhouse-pipeline.git
-cd https://github.com/Ashish1022/kafka-clickhouse-pipeline.git
+cd kafka-clickhouse-pipeline
 
 # 2. Install dependencies for consumer frontend
 cd apps/consumer-frontend
